@@ -1,4 +1,3 @@
-import './App.css';
 import { useState } from 'react';
 import { apiKey } from './assets/api_key'; // My API Key
 import aiGirlImg from './assets/Girl.jpg' // Default Image
